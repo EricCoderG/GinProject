@@ -2,6 +2,8 @@
 
 Gin Example Project
 
+可以作为初学Go语言的一个练手项目
+
 ## 运行事项
 
 + 修改config/application.yml中的配置
